@@ -1,5 +1,5 @@
 # Prestige Termux Toolkit
-PRESTIGE TECH — by Dominik Wasilak — v0.1.0
+PRESTIGE TECH — by Dominik Wasilak — v0.2.0
 
 Mobilny panel backendów systemowych: system, sieć, pliki, Git, SSH, Android, backup i diagnostyka.
 
